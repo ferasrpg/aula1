@@ -1,5 +1,5 @@
 <?php
 
-echo "versao 1";
+echo "versao 2";
 
 ?>
